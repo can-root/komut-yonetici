@@ -1,7 +1,9 @@
 Bu uygulama sayesinde belirli komut istemlerini otomatikleştirebilirsiniz.
 
 Kurulum:
+
 1 Proje dizinine gidiniz.
+
 2 Sırasıyla alttaki komutları girerek derleme işlemini yapınız.
 
 ![resim](https://github.com/user-attachments/assets/579ba50b-9b03-417a-a9de-d9aa22ecdfe4)
